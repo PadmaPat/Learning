@@ -1,2 +1,2 @@
 # Learning
-Tryinh Github Pull request
+Trying Github Pull request
